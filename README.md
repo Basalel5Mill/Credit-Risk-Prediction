@@ -4,7 +4,7 @@
 This project is a comprehensive **Credit Risk Analysis Dashboard** built with Python and Streamlit. It provides interactive visualizations and AI-powered insights for analyzing German credit risk data, helping financial institutions make informed lending decisions.
 
 <p align="center">
-  <img src="https://primary-production-2548.up.railway.app/wp-content/uploads/2025/07/Untitled-Project-2.gif" alt="Blog Post Automation Workflow" />
+  <img src="https://primary-production-2548.up.railway.app/wp-content/uploads/2025/07/Untitled-Project-2-1.gif" alt="Credit Risk Analysis Dashboard" />
 </p>
 
 
