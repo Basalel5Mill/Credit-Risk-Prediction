@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  credit-risk-dashboard:
+    build: .
+    ports:
+      - "8501:8501"
+    environment:
+      - PYTHONUNBUFFERED=1
+    restart: unless-stopped
+    volumes:
+      - ./german_credit_data.csv:/app/german_credit_data.csv:ro
+    container_name: credit-risk-dashboard
